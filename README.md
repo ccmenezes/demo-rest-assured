@@ -44,4 +44,4 @@ inside and show the test status.
 **myrestimage:1:** The docker image to create a container.
 
 
-![test execution](images/Screenshot from 2024-10-24 12-03-59.png)
+<img src="images/Screenshot from 2024-10-24 12-03-59.png">
