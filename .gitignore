@@ -1,12 +1,17 @@
-#Intellij configurations
-.idea/
+# IDEs
+.idea
 
-#Reports
-allure-results/
-target/
+#IDEA
+.idea/*
+*.iml
+*.ipr
 
-#Project notes
-notes.md
+#Mac OS
+.DS_Store
 
-#Properties
-src/main/resources/common.properties
+#Allure
+.allure
+/*/allure-results/
+
+#Maven
+target
