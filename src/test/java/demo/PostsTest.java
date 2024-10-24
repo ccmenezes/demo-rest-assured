@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class PostsTest {
 
-    // Allure notions
+    // Allure annotations
     @DisplayName("Test fetch all posts with success.")
     @Owner("Claudia Menezes")
     @Severity(SeverityLevel.CRITICAL)
@@ -35,7 +35,7 @@ public class PostsTest {
 
     }
 
-    // Allure notions
+    // Allure annotations
     @DisplayName("Test fetch all posts with success.")
     @Owner("Claudia Menezes")
     @Severity(SeverityLevel.NORMAL)

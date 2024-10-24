@@ -1,7 +1,7 @@
-<img src="images/java.png" alt="image" width= "100" height="auto" >
-<img src="images/junit5.png" alt="image" width= "100" height="auto" >
-<img src="images/docker.png" alt="image" width= "100" height="auto" >
-<img src="images/allure.png" alt="image" width= "100" height="auto" >
+<img src="images/java.png" alt="image" width= "100" height="auto"> <img src="images/junit5.png" alt="image" width= "100" 
+height="auto"> <img src="images/docker.png" alt="image" width= "100" height="auto"> <img src="images/allure.png" alt="image" 
+width= "100" height="auto">
+
 
 # Rest assured project
 
