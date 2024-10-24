@@ -1,4 +1,4 @@
-package specs;
+package utils;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.filter.Filter;
@@ -9,6 +9,7 @@ import io.restassured.specification.RequestSpecification;
 import java.util.List;
 
 import static java.util.Arrays.asList;
+
 
 public class DefaultRequest {
 

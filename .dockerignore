@@ -1,0 +1,8 @@
+# IDE
+.idea/
+
+# Maven folders
+target
+
+# Files
+*.md
